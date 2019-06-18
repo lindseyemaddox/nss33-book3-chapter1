@@ -1,0 +1,116 @@
+{
+  "lego": [
+    {
+      "id": 1,
+      "creator": "Per Sun",
+      "color": "Black",
+      "line": "Technic",
+      "creation": "Cow"
+    },
+    {
+      "creator": "Lindsey",
+      "color": "yellow",
+      "line": "technic",
+      "creation": "Millenium Falcon",
+      "id": 2
+    },
+    {
+      "creator": "Poop",
+      "color": "red",
+      "line": "creator",
+      "creation": "Eiffel Tower",
+      "id": 3
+    },
+    {
+      "creator": "Azalea",
+      "color": "white",
+      "line": "friends",
+      "creation": "Unicorn Ranch",
+      "id": 4
+    },
+    {
+      "creator": "Declan",
+      "color": "blue",
+      "line": "duplo",
+      "creation": "Goat Rodeo",
+      "id": 5
+    },
+    {
+      "creator": "Zack",
+      "color": "black",
+      "line": "technic",
+      "creation": "Batcave",
+      "id": 6
+    },
+    {
+      "creator": "Zack",
+      "color": "black",
+      "line": "technic",
+      "creation": "Batcave",
+      "id": 7
+    },
+    {
+      "creator": "Zack",
+      "color": "black",
+      "line": "technic",
+      "creation": "Batcave",
+      "id": 8
+    },
+    {
+      "creator": "Zack",
+      "color": "black",
+      "line": "technic",
+      "creation": "Batcave",
+      "id": 9
+    },
+    {
+      "creator": "Zack",
+      "color": "black",
+      "line": "technic",
+      "creation": "Batcave",
+      "id": 10
+    },
+    {
+      "creator": "Zack",
+      "color": "black",
+      "line": "technic",
+      "creation": "Batcave",
+      "id": 11
+    },
+    {
+      "creator": "Zack",
+      "color": "black",
+      "line": "technic",
+      "creation": "Batcave",
+      "id": 12
+    },
+    {
+      "creator": "Zack",
+      "color": "black",
+      "line": "technic",
+      "creation": "Batcave",
+      "id": 13
+    },
+    {
+      "creator": "Azalea",
+      "color": "red",
+      "line": "friends",
+      "creation": "Roses in a Pot",
+      "id": 14
+    },
+    {
+      "creator": "Mommy",
+      "color": "black",
+      "line": "creator",
+      "creation": "Batcave",
+      "id": 15
+    },
+    {
+      "creator": "Azalea",
+      "color": "red",
+      "line": "city",
+      "creation": "Princess Castle",
+      "id": 16
+    }
+  ]
+}

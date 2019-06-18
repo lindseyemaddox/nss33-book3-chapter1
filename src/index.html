@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>LEGO</title>
+</head>
+<body>
+
+  <h1>Book 3: Chapter 1</h1>
+
+  <fieldset>
+
+    <label for="lego__creator">Creator:</label>
+    <input id="lego__creator" name="lego__creator" type="text" autofocus placeholder="Name"/>
+
+  </fieldset>
+
+  <fieldset>
+
+    <select id="lego__color">
+      <option value="red">Red</option>
+      <option value="green">Green</option>
+      <option value="yellow">Yellow</option>
+      <option value="blue">Blue</option>
+      <option value="white">White</option>
+      <option value="black">Black</option>
+    </select>
+
+  </fieldset>
+
+  <fieldset>
+
+    <label for="lego__line">Line:</label>
+    <input class="lego__line" name="lego__line" type="radio" value="creator" id="lego__line--creator">Creator</input>
+    <input class="lego__line" name="lego__line" type="radio" value="city" id="lego__line--city">City</input>
+    <input class="lego__line" name="lego__line" type="radio" value="technic" id="lego__line--technic">Technic</input>
+    <input class="lego__line" name="lego__line" type="radio" value="juniors" id="lego__line--juniors">Juniors</input>
+    <input class="lego__line" name="lego__line" type="radio" value="friends" id="lego__line--friends">Friends</input>
+    <input class="lego__line" name="lego__line" type="radio" value="expert" id="lego__line--expert">Expert</input>
+    <input class="lego__line" name="lego__line" type="radio" value="duplo" id="lego__line--duplo">Duplo</input>
+
+  </fieldset>
+
+  <fieldset>
+
+    <label for="lego__creation">Creation:</label>
+    <input id="lego__creation" name="lego__creation" type="text" placeholder="Millineum Falcon, Eiffel Tower, Taj Mahal, etc."/>
+
+  </fieldset>
+
+  <button class="btn lego__save">Save Lego Creation</button>
+
+  <h3>My lego collection</h3>
+  <ul id="lego-list"></ul>
+
+  <script src="main.js" type="module"></script>
+</body>
+</html>
